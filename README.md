@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @amitmaniar
 - 👀 I’m interested in startups, solving real life problems using technology.
-- 🌱 I’m currently learning something.
-- 💞️ I’m looking to collaborate on something.
 - 📫 reach me on [LinkedIn](https://www.linkedin.com/in/maniaramit/)
 
 <!---
